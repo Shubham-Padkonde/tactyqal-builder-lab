@@ -1,0 +1,9 @@
+{
+  "name": "tactyqal-builder-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI-assisted Tactyqal internship exercise: responsive homepage and persistent blog CRUD API",
+  "engines": { "node": ">=24.15.0" },
+  "scripts": { "start": "node server.js", "test": "node --test test/*.test.js" }
+}
